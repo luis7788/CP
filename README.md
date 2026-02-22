@@ -5,6 +5,8 @@ O trabalho segue uma abordagem de [**programação literária**](http://www.lite
 
 Tanto o enunciado como as soluções encontram-se em Português no [relatório final](cp2526t/cp2526t.pdf).
 
+### Nota Final: 19 / 20 ⭐️
+
 ## Membros do grupo
 * [darteescar](https://github.com/darteescar)
 * [luis7788](https://github.com/luis7788)
@@ -57,6 +59,8 @@ Solving **functional programming** problems using **Calculus of Programs** techn
 The project follows a [**literate programming**](http://www.literateprogramming.com/) approach, where code and documentation coexist in the same file.
 
 Both the statement and solutions are in Portuguese in the [final report](cp2526t/cp2526t.pdf).
+
+### Nota Final: 19 / 20 ⭐️
 
 ## Group Members
 * [darteescar](https://github.com/darteescar)
